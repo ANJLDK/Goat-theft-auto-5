@@ -1,0 +1,12 @@
+
+******** Loading object StaticMesh3'Hats.CycleHelm' ********
+
+ERROR: Memory: bad allocation size 1089362176 bytes
+appMalloc: size=1089362176 (total=0 Mbytes) <- FArray::Empty: 184630732 x 192 <- TArray::Serialize: 0/0 <- UStaticMesh3::Serialize <- LoadObject: StaticMesh3'Hats.CycleHelm', pos=423BB3, ver=868/0, game=ue3 <- UObject::EndLoad <- LoadWholePackage: Packages/Hats.upk <- ExportPackages <- Main: umodel_build=1590
+
+
+******** Loading object StaticMesh3'Hats.CycleHelm' ********
+
+ERROR: Memory: bad allocation size 1089362176 bytes
+appMalloc: size=1089362176 (total=0 Mbytes) <- FArray::Empty: 184630732 x 192 <- TArray::Serialize: 0/0 <- UStaticMesh3::Serialize <- LoadObject: StaticMesh3'Hats.CycleHelm', pos=423BB3, ver=868/0, game=ue3 <- UObject::EndLoad <- LoadWholePackage: Packages/Hats.upk <- ExportPackages <- Main: umodel_build=1590
+

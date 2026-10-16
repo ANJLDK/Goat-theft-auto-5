@@ -1,0 +1,13 @@
+GOAT THEFT AUTO 5 - release
+
+Single player only. Needs Script Hook V and ScriptHookVDotNet v3 (.NET Framework 4.8).
+
+1. Copy everything inside Core\ into GTA V's "scripts" folder (make the folder if it does not exist).
+2. Optional add-ons - copy the files of the ones you want into the same "scripts" folder:
+     Optional\GoatStyle         score, mutators, achievements, photo mode
+     Optional\GoatDriver        PAYDAY-style driving
+     Optional\ForeverChillGoat  Chilled Goat radio plays everywhere
+3. Start story mode and press F10.
+
+The goat models are NOT included. Run Tools\get_models.bat to extract them from your own copy of
+Goat Simulator, then follow Docs\README.md (Blender -> OpenIV). Until then you play as a deer.
